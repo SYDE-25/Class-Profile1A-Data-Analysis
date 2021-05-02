@@ -1,4 +1,4 @@
-# SYDE2025-1A-Class-Profile-
+# Class-Profile1A-Data-Analysis
 Data analysis for the SYDE 2025 1A Class Profile.
 
 ## Table of Contents
@@ -12,9 +12,7 @@ Data analysis for the SYDE 2025 1A Class Profile.
 
 ## About The Project
 The SYDE class profile, was created to give an insight to the SYDE 2025 cohort's 1A term, similar to reports created
-by previous cohorts. This repo was a new one created to remove sensitive information such as CSV files by Sean, however, 
-other people have made contributions to this project. They include Nicolas, Nirmal and Alan, whose contributions can be found
-in the files section of this README.
+by previous cohorts. This repo was a new one created to remove sensitive information such as CSV files and outputs, and beacuse of this only one contributor shows, however, other people have made contributions to this project. Sean, Nicolas, Nirmal and Alan, were all contributors for this project. whose contributions can be found in the files section of this README.
 
 ### Purpose
 The purpose of this profile is to present data collected from the cohort in a manner that could be understood by anyone who looks at the profile. To accomplish, this we analyzed, and cleaned the data to produce visuals such as graphs that would display the information in the best way possible. This is an unofficial class profile conducted by students in SYDE 2025 and is not associated with the University of Waterloo in any manner. The data is shown as a collective, however there are anomalies that are shown. Due to this, please do not try to find out who these people are. Privacy is imperative and those who shared information about themselves presumably do not want their identity revealed. If there are any questions, feel free to email anyone in the contact information listed below.
@@ -198,7 +196,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
 ## License
 Distributed under the MIT License.
 
-## Contact
+## Contributors
 Alan Zhang - Email: [alan.zhang1@uwaterloo.ca](mailto:alan.zhang1@uwaterloo.ca)\
 Nicolas Palmar - Email: [npalmar@uwaterloo.ca](mailto:npalmar@uwaterloo.ca)\
 Nirmal Hegde - Email: [nhegde@uwaterloo.ca](mailto:nhegde@uwaterloo.ca)\
