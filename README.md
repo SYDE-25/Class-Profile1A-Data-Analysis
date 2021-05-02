@@ -28,12 +28,19 @@ The purpose of this profile is to present data collected from the cohort in a ma
 * **[XGBoost](https://xgboost.readthedocs.io/en/latest/)**
 
 ## Files
+- **Final Data Science Report**
+  * [Final Data Science Report.pdf:](./Final Data Science Report.pdf)
+    + Created by Sean
+    + Explored all the relationships between course difficulty and various other factors, aswell as correlations and visualizations.
+ 
 - **Academics**: 
   * [Difficulty Exploration:](./Academics/difficulty_exploration.ipynb)
-    + Explanation
+    + Created by Sean
+    + Explored all the relationships between course difficulty and various other factors, aswell as correlations and visualizations.
 
   * [Difficulty VS Usefulness:](./Academics/Difficulty%20vs%20Usefulness%201A.ipynb)
-    + Explanation
+    + Created by Sean
+    + Explored relationships between specifically course difficulty and usefulness
 
   * [High School](./Academics/high_school.ipynb)
     + Explanation
