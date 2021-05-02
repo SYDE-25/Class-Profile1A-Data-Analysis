@@ -29,9 +29,9 @@ The purpose of this profile is to present data collected from the cohort in a ma
 
 ## Files
 - **Final Data Science Report**
-  * [Final Data Science Report.pdf:](./Final Data Science Report.pdf)
-    + Created by Sean
-    + Explored all the relationships between course difficulty and various other factors, aswell as correlations and visualizations.
+  * [Final Data Science Report:](./Final Data Science Report.pdf)
+    + Created by Sean, Alan, Nicolas, Nirmal
+    + Data analysis report to communicate survey findings with the other project teams using data visualization and statistics, allowing for the implementation of those findings in the web application.
  
 - **Academics**: 
   * [Difficulty Exploration:](./Academics/difficulty_exploration.ipynb)
