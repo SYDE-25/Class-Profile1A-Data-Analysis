@@ -12,7 +12,7 @@ Data analysis for the SYDE 2025 1A Class Profile.
 
 ## About The Project
 The SYDE class profile, was created to give an insight to the SYDE 2025 cohort's 1A term, similar to reports created
-by previous cohorts. This repo was a new one created to remove sensitive information such as CSV files and outputs, and beacuse of this only one contributor shows, however, other people have made contributions to this project. Sean, Nicolas, Nirmal and Alan, were all contributors for this project. whose contributions can be found in the files section of this README.
+by previous cohorts. This repo was a new one created to remove sensitive information such as CSV files and outputs, and beacuse of this only one contributor shows, however, other people have made contributions to this project. Sean, Nicolas, Nirmal and Alan, were all contributors for this project. Their contributions can be found in the files section of this README.
 
 ### Purpose
 The purpose of this profile is to present data collected from the cohort in a manner that could be understood by anyone who looks at the profile. To accomplish, this we analyzed, and cleaned the data to produce visuals such as graphs that would display the information in the best way possible. This is an unofficial class profile conducted by students in SYDE 2025 and is not associated with the University of Waterloo in any manner. The data is shown as a collective, however there are anomalies that are shown. Due to this, please do not try to find out who these people are. Privacy is imperative and those who shared information about themselves presumably do not want their identity revealed. If there are any questions, feel free to email anyone in the contact information listed below.
@@ -29,7 +29,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
 
 ## Files
 - **Final Data Science Report**
-  * [Final Data Science Report:](Final%Data%Science%Report.pdf)
+  * [Final Data Science Report:](./Final%Data%Science%Report.pdf)
     + Created by Sean, Alan, Nicolas, Nirmal
     + Data analysis report to communicate survey findings with the other project teams using data visualization and statistics, allowing for the implementation of those findings in the web application.
  
