@@ -36,7 +36,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
 * **[Firebase](https://firebase.google.com/)**
 
 ## Files
-- **Final Data Science Report**
+### Final Data Science Report:
   * [Final Data Science Report:](./Final%20Data%20Science%20Report.pdf)
     + Created by Sean, Alan, Nicolas, Nirmal
     + Data analysis report to communicate survey findings with the other project teams using data visualization and statistics, allowing for the implementation of those findings in the web application.
