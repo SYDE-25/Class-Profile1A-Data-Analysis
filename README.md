@@ -33,6 +33,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
 * **[Numpy](https://numpy.org)**
 * **[SKLearn](https://scikit-learn.org/stable/)**
 * **[XGBoost](https://xgboost.readthedocs.io/en/latest/)**
+* **[Firebase](https://firebase.google.com/)**
 
 ## Files
 - **Final Data Science Report**
@@ -103,41 +104,52 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Explanation
   
   * [Gender](./Demographics/gender.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by their gender, compared results using a pie chart.
 
   * [Hometown](./Demographics/hometown.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by the town they lived in before attending UW, displayed results in a bar graph.
   
   * [Hometown VS Highschool Grades](./Demographics/hometown_vs_HS_grades.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by the town they lived in before attending UW and compared the admission grades of each group using a boxplot graph.
 
   * [Hometown VS University Grades](./Demographics/hometown_vs_uni_grades.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by the town they lived in before attending UW and compared their first term grades using a boxplot graph.
 
   * [Parent Education](./Demographics/parent_education.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped parents of students based on their highest level of education, compared results using a bar graph.
 
   * [Parents](./Demographics/parents/ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped parents of students depending on if they were born in Canada or not, compared results using a pie chart.
 
   * [Political Alignment](./Demographics/political_alignment.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by their political alignment, compared results using a bar graph.
 
   * [Religion](./Demographics/religion.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by their religion, compared results using a bar graph.
 
   * [Sexuality](./Demographics/sexuality.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by their sexuality, compared results using a bar graph.
 
   * [STEM](./Demographics/stem.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students based on if their parents are currently in a STEM field, compared results using a pie chart.
 
   * [Type of CO-OP](./Demographics/type_of_coop.ipynb)
     + Created by Alan
     + Grouped together specific co-op sectors to create a bar graph
 
   * [Year Born](./Demographics/year_born.ipynb)
-    + Explanation
+    + Created by Nirmal.
+    + Grouped students by the year they were born, compared results on a pie chart.
 
 - **Lifestyle**
   * [Days Outside VS Mental Health](./Lifestyle/Days%20Outside%20vs%20Mental%20Health.ipynb)
