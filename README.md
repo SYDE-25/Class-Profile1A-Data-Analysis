@@ -72,7 +72,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
 
   * [CO-OP Round VS Sector](./Co-op/coop_round_vs_sector.ipynb)
     + Created by Alan
-    + Grouped the types of CO-OPs obtained in all rounds to produce a stacked bar graph
+    + Grouped the types of CO-OPs obtained in all rounds to produce a double bar graph
 
   * [Direct Offer Round VS CO-OP](./Co-op/directoffer_v_coop.ipynb)
     + Created by Alan
