@@ -7,6 +7,13 @@ Data analysis for the SYDE 2025 1A Class Profile.
     + [Purpose](#purpose)
     + [Languages, Tools and Libraries](#languages-tools-and-libraries)
   * [Files](#files)
+    + [Final Data Science Report](#final-data-science-report)
+    + [Academics](#academics)
+    + [CO-OP](#co-op)
+    + [Demographics](#demographics)
+    + [Lifestyle](#lifestyle)
+    + [Machine Learning](#machine-learning)
+    + [Nico](#nico)
   * [License](#license)
   * [Contact](#contact)
 
