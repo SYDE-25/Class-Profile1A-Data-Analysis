@@ -41,7 +41,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Created by Sean, Alan, Nicolas, Nirmal
     + Data analysis report to communicate survey findings with the other project teams using data visualization and statistics, allowing for the implementation of those findings in the web application.
  
-- **Academics**: 
+### Academics: 
   * [Difficulty Exploration:](./Academics/difficulty_exploration.ipynb)
     + Created by Sean
     + Explored all the relationships between course difficulty and various other factors, aswell as correlations and visualizations.
@@ -59,7 +59,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
   * [Specialized High School Program VS University](./Academics/specialized_hs_v_uni.ipynb)
     + Explanation
 
-- **CO-OP**: 
+### CO-OP: 
   * [Continuous Round VS CO-OP](./Co-op/continuous_v_coop.ipynb)
     + Created by Alan
     + Grouped the types of CO-OPs obtained during the continuous round to produce a pie chart
@@ -99,7 +99,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
   * [Software Coop vs 121 Grade](./Co-op/Software%20Coop%20vs%20121.ipynb)
     + Explanation
 
-- **Demographics**: 
+### Demographics: 
   * [Ethnicites](./Demographics/Ethnicities%201A.ipynb)
     + Explanation
   
@@ -151,7 +151,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Created by Nirmal.
     + Grouped students by the year they were born, compared results on a pie chart.
 
-- **Lifestyle**
+### Lifestyle:
   * [Days Outside VS Mental Health](./Lifestyle/Days%20Outside%20vs%20Mental%20Health.ipynb)
     + Explanation
 
@@ -199,7 +199,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Created by Alan
     + Grouped people based on whether or not they had sexual intercourse before 1A, to create a pie chart
 
-- **Machine Learning**
+### Machine Learning:
   * [Compare Courses](./ML/compare_courses.ipynb)
     + Explanation
   
@@ -209,7 +209,7 @@ The purpose of this profile is to present data collected from the cohort in a ma
   * [XGBoost Feature Finder](./ML/xgb_feature_finder.ipynb)
     + Explanation
 
-- **Nico**
+### Nico:
   * [Helpers](./nico/helpers.ipynb)
     + Explanation
 
