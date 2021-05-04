@@ -31,9 +31,10 @@ The purpose of this profile is to present data collected from the cohort in a ma
 * **[Seaborn](https://seaborn.pydata.org)**
 * **[Matplotlib](https://matplotlib.org)**
 * **[Numpy](https://numpy.org)**
-* **[SKLearn](https://scikit-learn.org/stable/)**
+* **[Scikit-learn](https://scikit-learn.org/stable/)**
 * **[XGBoost](https://xgboost.readthedocs.io/en/latest/)**
 * **[Firebase](https://firebase.google.com/)**
+* **[Yellowbrick](https://www.scikit-yb.org/en/latest/)**
 
 ## Files
 ### Final Data Science Report:
@@ -47,28 +48,33 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Explored all the relationships between course difficulty and various other factors, aswell as correlations and visualizations.
 
   * [Difficulty VS Usefulness:](./Academics/Difficulty%20vs%20Usefulness%201A.ipynb)
-    + Created by Sean
+    + Created by Nicolas and Sean
     + Explored relationships between specifically course difficulty and usefulness
 
   * [High School](./Academics/high_school.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Visualized high school admission averages 
 
   * [High School VS University Average](./Academics/high_school_v_uni_avg.ipynb)
-    + Explanation
+    + Created by Nicolas 
+    + Explored relationships between high school admission average and 1A average, drop off between 1A and high school, as well as a histogram of 1A averages
 
   * [Specialized High School Program VS University](./Academics/specialized_hs_v_uni.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Cleaned and transformed high school data related to specialized programs to visualize how high school programs affected 1A averages
 
 ### CO-OP: 
   * [Continuous Round VS CO-OP](./Co-op/continuous_v_coop.ipynb)
     + Created by Alan
     + Grouped the types of CO-OPs obtained during the continuous round to produce a pie chart
 
-  * [CO-OP Round VS Pay](./Co-op/Coop%20pay%20vs%20type.ipynb)
-    + Explanation
-
-  * [CO-OP Round VS Pay](./Co-op/Coop%20pay%20vs%20type.ipynb)
-    + Explanation
+  * [CO-OP Round VS Pay](./Co-op/Coop%20round%20vs%20pay.ipynb)
+    + Created by Nicolas
+    + Paritioned coop salary by round using a boxplot
+  
+  * [CO-OP Sector VS Pay](./Co-op/Coop%20pay%20vs%20type.ipynb)
+    + Created by Nicolas
+    + Paritioned coop salary by industry sector using a boxplot
 
   * [CO-OP Round VS Sector](./Co-op/coop_round_vs_sector.ipynb)
     + Created by Alan
@@ -82,7 +88,8 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Explanation
 
   * [High School Average VS Pay](./Co-op/High%20School%20Avg%20vs%20Pay.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Examined the correlations between high school average and pay as well as **university average and pay**
 
   * [Parents in STEM VS CO-OP round](./Co-op/parents_STEM_v_coop_round.ipynb)
     + Created by Alan
@@ -97,11 +104,13 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Grouped the types of CO-OPs obtained during the second round to produce a pie chart
 
   * [Software Coop vs 121 Grade](./Co-op/Software%20Coop%20vs%20121.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Visualized SYDE 121 averages vs having a coop in the software sector 
 
 ### Demographics: 
   * [Ethnicites](./Demographics/Ethnicities%201A.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Manipulated ethnicity data to display the relative percentage of ethnicities in a pie chart
   
   * [Gender](./Demographics/gender.ipynb)
     + Created by Nirmal.
@@ -136,8 +145,8 @@ The purpose of this profile is to present data collected from the cohort in a ma
     + Grouped students by their religion, compared results using a bar graph.
 
   * [Sexuality](./Demographics/sexuality.ipynb)
-    + Created by Nirmal.
-    + Grouped students by their sexuality, compared results using a bar graph.
+    + Created by Nicolas
+    + Clean sexuality data and grouped students by their sexuality, compared results using a bar graph.
 
   * [STEM](./Demographics/stem.ipynb)
     + Created by Nirmal.
@@ -153,7 +162,8 @@ The purpose of this profile is to present data collected from the cohort in a ma
 
 ### Lifestyle:
   * [Days Outside VS Mental Health](./Lifestyle/Days%20Outside%20vs%20Mental%20Health.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Created a boxplot of days outside compared to mental health during, before, and after the semester
 
   * [Drugs](./Lifestyle/drugs.ipynb)
     + Created by Alan
@@ -201,23 +211,25 @@ The purpose of this profile is to present data collected from the cohort in a ma
 
 ### Machine Learning:
   * [Compare Courses](./ML/compare_courses.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Initial attempt to use TSNE and PCA to find relationships between courses. **Note: This attempt failed since courses were aggregated using means and medians**
   
   * [Courses By Person](./ML/courses_by_person.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Investiaged similarities between courses to find 6 general groupings of courses. Rotated the data to ensure that the results were on a per student basis. Experimented with unsupervised machine learning algorithms to provide insights into similar courses. 
 
   * [XGBoost Feature Finder](./ML/xgb_feature_finder.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Cleaned the data in the full survey using label encoding, one hot encoding, and imputing. Trained and applied hyperparameter tuning to a supervised maching learning model (XGBoost) which was able to predict student averages to 4% accuracy. Used the SHAP library to find which features best predicted academic success. 
 
 ### Nico:
-  * [Helpers](./nico/helpers.ipynb)
-    + Explanation
-
   * [Test](./nico/test.ipynb)
-    + Explanation
+    + Created by Nicolas
+    + Notebook to test helper graphing functions
 
-  * [Utils](./nico/utils.ipynb)
-    + Explanation
+  * [Utils](./nico/utils.py)
+    + Created by Nicolas
+    + Developed a class to simplify graphing with Matplotlib and Seaborn
   
 ## License
 Distributed under the MIT License.
